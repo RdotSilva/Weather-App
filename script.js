@@ -1,4 +1,4 @@
-const appID = 'bd5a6fcc60240af6eed7b9be46fb1e53';
+const appID = 'PASTE YOUR API KEY HERE';
 const units = 'imperial';
 let searchMethod;
 let longForecast;
