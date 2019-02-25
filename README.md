@@ -39,7 +39,7 @@ const appID = 'PASTE YOUR API KEY HERE';
 ```
 ## Screenshots
 
-![Weather App](http://i64.tinypic.com/29bukl.jpg "Displaying Weather")
+![Weather App](http://tinypic.com/r/29bukl/9 "Displaying Weather")
 
 ## Built With
 
